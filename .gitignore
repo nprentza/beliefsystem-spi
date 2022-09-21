@@ -1,0 +1,5 @@
+# Project exclude paths
+/belief-system-api/target/
+/belief-system-complex/target/
+/belief-system-simple/target/
+/belief-system-tests/target/
